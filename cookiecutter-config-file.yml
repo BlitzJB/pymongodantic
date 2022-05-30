@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "pymongodantic"
+  project_description: "`pymongodantic` is a MongoDB ORM working with pydantic thus being directly compatible with tools like FastAPI"
+  organization: "BlitzJB.dev"
+  license: "MIT"
+  minimal_python_version: 3.7
+  github_name: "blitzjb"
+  email: "blitz04.dev@gmail.com"
+  version: "0.1.0"
+  line_length: "88"
+  create_example_template: "cli"
